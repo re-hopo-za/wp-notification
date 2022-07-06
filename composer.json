@@ -1,0 +1,17 @@
+{
+    "name": "reza/notif",
+    "authors": [
+        {
+            "name": "reza",
+            "email": "re_hopo_za@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Notif\\":"./"
+        }
+    },
+    "require": {
+        "hashids/hashids": "^4.1"
+    }
+}
